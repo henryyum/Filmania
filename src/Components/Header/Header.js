@@ -18,7 +18,7 @@ export default function Header() {
           <img className="Header-filmicon" src="/images/filmicon.png" alt="" />
         </Link>
         <Link to="/">
-          <h4>Filmania</h4>
+          <h4>hello</h4>
         </Link>
       </div>
 
